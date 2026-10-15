@@ -1,6 +1,6 @@
 # E30 Teardown
 
-A scroll-driven 3D teardown of the BMW E30 3 Series in one HTML file.
+One prompt with Opus 5.5. A scroll-driven 3D teardown of the BMW E30 3 Series in one HTML file.
 
 **Live:** https://lincolnchoi9.github.io/motiondesigntest/
 
